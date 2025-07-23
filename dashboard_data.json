@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "amount": 500,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 2,
+    "amount": 8000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 3,
+    "amount": 200,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 4,
+    "amount": 9000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 1,
+    "amount": 500,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 2,
+    "amount": 8000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 3,
+    "amount": 200,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 4,
+    "amount": 9000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 1,
+    "amount": 500,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 2,
+    "amount": 8000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 3,
+    "amount": 200,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 4,
+    "amount": 9000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 1,
+    "amount": 500,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 2,
+    "amount": 8000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 3,
+    "amount": 200,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 4,
+    "amount": 9000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 1,
+    "amount": 500,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 2,
+    "amount": 8000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 3,
+    "amount": 200,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 4,
+    "amount": 9000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 1,
+    "amount": 500,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 2,
+    "amount": 8000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 3,
+    "amount": 200,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 4,
+    "amount": 9000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 1,
+    "amount": 500,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 2,
+    "amount": 8000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 3,
+    "amount": 200,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 4,
+    "amount": 9000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 1,
+    "amount": 500,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 2,
+    "amount": 8000,
+    "location": "risky",
+    "is_fraud": 1
+  },
+  {
+    "id": 3,
+    "amount": 200,
+    "location": "local",
+    "is_fraud": 0
+  },
+  {
+    "id": 4,
+    "amount": 9000,
+    "location": "risky",
+    "is_fraud": 1
+  }
+]
