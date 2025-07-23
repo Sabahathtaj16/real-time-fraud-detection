@@ -10,13 +10,6 @@ Project Highlights
 - Streamlit dashboard for real-time visualization and monitoring
 - Graph-based fraud ring detection using synthetic data and NetworkX
 
-Files Included
-- `zidio.ipynb`: Main notebook with data prep, modeling, and real-time pipeline
-- `ZIDIO_PROJECT_1.pdf`: Final report with all implementation phases
-- `transactions.json` (optional): Sample transaction stream input
-- `dashboard_data.json` (optional): Streamlit dashboard source file
-- `fraud_model.pkl` (optional): Pre-trained model for Kafka consumer
-
 Tech Stack
 - Python, Pandas, Scikit-learn, XGBoost, LightGBM
 - Kafka for real-time message streaming
